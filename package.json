@@ -1,5 +1,5 @@
 {
-  "name": "my-form-validator",
+  "name": "tmt-form-validator",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
