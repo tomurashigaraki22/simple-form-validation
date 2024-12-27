@@ -1,0 +1,23 @@
+{
+  "name": "my-form-validator",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "form validation",
+    "validation",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
